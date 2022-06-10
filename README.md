@@ -1,2 +1,2 @@
 # LotteryGame
-This Dapp uses Chainlink and Graph.
+This Dapp uses Chainlink VRF and Graph.
